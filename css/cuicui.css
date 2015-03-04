@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{ width:100%;}
+body{ background:url(../images/bg.jpg); margin:0; padding:0;text-align:center;}
+.content{ width:1200px; margin:0px auto; }
