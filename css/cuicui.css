@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{ width:100%;}
+body{ background:url(../images/bg.jpg); margin:0; padding:0;text-align:center;}
+.content{ width:1200px; margin:0px auto; }
+.maxWidth {
+  margin: 0 auto;
+  max-width: 640px;
+}
+.flex2 { font-size: 12px; line-height: 1.6; text-align:left;
+
+}
+.flex3 { font-size: 16px; line-height: 1.6; text-align:left; color:#a8371e;
+}
+
+.left-img { float: left; }
