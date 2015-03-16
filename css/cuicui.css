@@ -7,8 +7,7 @@ body{ background:url(../images/bg.jpg); margin:0; padding:0;text-align:center;
   line-height: 1.6;}
 .content{ margin:0px auto; }
 .maxWidth {
-  margin: 0 auto;
-  max-width:none;
+  margin: 0 auto; width:auto;
 }
 .flex2 { font-size: 12px; line-height: 1.6; text-align:left;
 
