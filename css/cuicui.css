@@ -7,9 +7,10 @@ body{ background:url(../images/bg.jpg); margin:0; padding:0;text-align:center;
   line-height: 1.6;}
 .content{ margin:0px auto; }
 .maxWidth {
-  margin: 0 auto; width:auto;
+  margin: 0 auto;
+  max-width: 100%;
 }
-.flex2 { font-size: 12px; line-height: 1.6; text-align:left;
+.flex2 { line-height: 1.6; text-align:left;
 
 }
 .flex2 .flex3 { padding-top:20px;  font-weight:bold;  text-align:left; color:#a8371e;
